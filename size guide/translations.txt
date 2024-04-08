@@ -1,0 +1,8 @@
+EN | SI | DE | FR | IT | CZ
+
+Size | Velikost | Größe | Taille | Misurare | Velikost
+Chest | Obseg prsnega koša | Brustumfang | Poitrine | Petto | Hruď
+Waist | Obseg pasu | Taillenweite | Taille | Vita | Pás
+Hip | Obseg bokov | Hüftumfang | Hanche | Anca | Boky
+Inseam | Notranji šiv | Schrittlänge | Entrejambe | Cucitura interna | Ve švu
+Sleeve length | Dolžina rokava | Ärmellänge | Longueur Des Manches | Lunghezza della manica | Délka rukávu
